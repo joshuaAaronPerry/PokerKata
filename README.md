@@ -1,0 +1,2 @@
+# PokerKata
+Poker Kata Project
